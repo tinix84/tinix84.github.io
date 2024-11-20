@@ -1,34 +1,20 @@
 # Tinix84 website example
 ## Portfolio
-
+[Power Electronics](/sample_page)
+<img src="images/web-developer-portfolio.jpg?raw=true"/>
 ---
 
-### Category Name 1 
+### Engineering Blog
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Power Electronics](/power_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Quantitative Finance Blog
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+[FinTech](/sample_page)
+<img src="images/Introduction-to-quant-finance.png?raw=true"/>
 
 
 ---
