@@ -1,0 +1,93 @@
+{
+  "personal": {
+    "name": "Riccardo Tinivella",
+    "title": "Power Electronics Engineer & Automation Enthusiast", 
+    "status": "Making electrons dance 💃⚡️",
+    "avatar": "./assets/images/riccardo-avatar.jpg",
+    "motto": "Leave the world in a better shape than what you have found"
+  },
+  "contact": {
+    "email": "riccardo@tinix84.dev",
+    "location": "Buchs, SG, Switzerland",
+    "institution": "NTB Buchs",
+    "education": "Politecnico di Torino"
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/in/riccardotinivella",
+    "github": "https://github.com/tinix84",
+    "twitter": "https://twitter.com/tinix84_",
+    "researchgate": "https://researchgate.net/profile/riccardo-tinivella"
+  },
+  "education": [
+    {
+      "degree": "Master of Science in Electrical Engineering",
+      "institution": "Politecnico di Torino, Italy",
+      "year": "2008",
+      "description": "Specialization in Power Electronics and Control Systems. Thesis: 'Advanced Control Strategies for Motor Drives'"
+    },
+    {
+      "degree": "Bachelor of Science in Electrical Engineering", 
+      "institution": "Politecnico di Torino, Italy",
+      "year": "2006",
+      "description": "Foundation in electrical engineering principles with focus on electronics and automation systems"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Research Engineer",
+      "institution": "NTB Buchs, Switzerland", 
+      "period": "2015 - Present",
+      "description": "Leading research in automotive power electronics, developing next-generation motor control systems, and supervising graduate student projects."
+    },
+    {
+      "title": "Research Assistant",
+      "institution": "Politecnico di Torino, Italy",
+      "period": "2008 - 2010", 
+      "description": "Conducted research in power electronics, published papers in international conferences, and assisted in undergraduate course instruction."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Power Electronics",
+      "level": 95,
+      "icon": "⚡️",
+      "description": "Motor Control, Inverters, Power Supplies"
+    },
+    {
+      "category": "Circuit Simulation", 
+      "level": 90,
+      "icon": "🔬",
+      "description": "GeckoCIRCUIT, MATLAB/Simulink, SPICE"
+    },
+    {
+      "category": "Automation & Control",
+      "level": 85, 
+      "icon": "🤖",
+      "description": "PLC Programming, Control Systems"
+    },
+    {
+      "category": "Python & AI",
+      "level": 78,
+      "icon": "🐍", 
+      "description": "Learning & Growing Every Day!"
+    },
+    {
+      "category": "Knowledge Sharing",
+      "level": 100,
+      "icon": "🧠",
+      "description": "Teaching, Mentoring, Community Building"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Paper Award",
+      "organization": "IEEE International Conference on Power Electronics",
+      "year": "2023"
+    },
+    {
+      "title": "Community Contributor Award", 
+      "organization": "GeckoCIRCUIT Open Source Project",
+      "year": "2022"
+    }
+  ]
+}
